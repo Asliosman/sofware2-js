@@ -2,7 +2,7 @@
 
 ### JS modules 1 and 2
 
-[My link to JS modules 1 and 2 folder at users.metropolia.fi] (https://users.metropolia.fi/~aslim/js-modules-1-2)
+[My link to JS modules 1 and 2 folder at users.metropolia.fi](https://users.metropolia.fi/~aslim/js-modules-1-2)
 
 Completed assignments:
 
