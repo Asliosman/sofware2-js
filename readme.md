@@ -45,3 +45,18 @@ Completed assignments:
 - t7: 2 p
 
 Total 11p
+
+
+---
+
+### Python Flask
+
+Completed assignments:
+
+- Task 1: Prime number service 4 p
+- Task 2: Translate service 10 p (including optional /words)
+- Task 3: Add words 6 p
+
+**Total 20p**
+
+Run with `python app.py` inside each assignment folder (port 3000).
