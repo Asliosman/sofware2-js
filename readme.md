@@ -13,6 +13,7 @@ Completed assignments:
 
 Total 11p
 
+
 ---
 
 ### JS module 3
@@ -60,3 +61,17 @@ Completed assignments:
 **Total 20p**
 
 Run with `python app.py` inside each assignment folder (port 3000).
+
+---
+
+### JS module 5
+
+[My link to JS module 5 folder at users.metropolia.fi](https://users.metropolia.fi/~aslim/js-module-5)
+
+Completed assignments:
+
+- Task 1: 2 p
+- Task 2: 3 p
+- Task 3: 7 p
+
+Total 12p
